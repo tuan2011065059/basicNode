@@ -1,0 +1,104 @@
+                              NODEJS48
+                            14g00-17g00 thứ 7 và chủ nhật
+4 bài tập
+- viết SQL
+- viết API cơ bản
+=> chiếm 30%
+- capstone (required) điểm >=70
+- đồ án cuối khóa (required) >=70
+
+
+cloud computing:
+VPS Việt Nam: 123host, matbao, tenten, cloudfly, hostingviet,...
+2GB RAM, 50GB SSD: 176K/tháng
+DOMAIN: 
+
+VPS quốc tế: AWS, Google Cloud, Azure, Digital Ocean, Linode, Vultr, Heroku, Netlify, Vercel, Firebase, Github Page, ...
+2gb ram, 50gb ssd: 450k/THÁNG
+
+được cấp giấy chứng nhận:
+- điểm >=70
+- hoàn thành capstone >=70
+-đồ án cuối khóa >=70
+
+Buổi 1: Khai giảng
+- Giới thiệu khóa học, dự án youtube mini, hệ thống,..."
+- Cài đặt Mysql với Docker
+
+Buổi 2: Basic SQL
+Buổi 3: Relationship
+Buổi 4: Phân tích dự án  - Appfood - Youtube
+
+Buổi 5: ExpressJS
+   - Restful API
+   - mysql2, connect database
+   - Postman
+   - Connect FE, BE, DATABASE
+   - CORS
+
+Buổi 6: Tái cấu trúc MVC Router
+   - Tái cấu trúc Response
+   - Biến môi trường (env)
+   - Sequelize, Squelize-cli, Squelize-auto
+   - DAO
+   - Code First & Database first
+
+Buổi 7: Trang chủ youtube (getAll, getType, getVideoWithType, Search)
+   - Pagination
+   - Trang detail
+
+Buổi 8:Youtube trang login, signup
+   - Login, SignUp
+   - Bcrypt
+   - Login facebook (google, github)
+
+Buổi 9: Forget password (send mail)
+   - Access Token - refresh token
+   - secret key (khóa đối xứng)
+   - private, public key (khóa bất đối xứng)
+Buổi 10:
+   - Refresh Token
+   - Quản lý đa thiết bị
+
+Buổi 11:
+   - Phân quyền theo chức năng
+   - Xử lý lỗi, Exception
+
+Buổi 12:
+   - Unit test (mocha, chai)
+   - Debug trên VS Code
+   - Swagger
+
+Buổi 13:
+   - Youtube trang info user
+   - Upload source
+   - cloudinary, base64
+   - Optimal image
+   - upload video (source BE hoặc S3 hoặc google drive)
+
+Buổi 14:
+   - ORM Prisma
+   - Graphql
+
+Buổi 15:
+   - Socket.io
+   - Chat message
+
+Buổi 16-17-18
+   - NestJS, cài đặt, cấu trúc
+   - Upload,swagger, enviroment , cors
+   - Token, passport, strategy
+
+Buổi 19:
+   - Docker
+   - docker-compose
+   - Deploy (manual) và tìm hiểu về CI/CD
+
+Buổi 20 (backup)
+   - CI/CD (github action) đơn giản
+
+
+cấu hình laptop:
+laptop
+RAM >=16GB => 24GB
+Storage: 256 GB SSD => 512GB
